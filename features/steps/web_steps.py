@@ -106,6 +106,7 @@ def step_impl(context, element_name):
 
 ## UPDATE CODE HERE ##
 
+
 ##################################################################
 # This code works because of the following naming convention:
 # The id field for text input in the html is the element name
